@@ -24,5 +24,3 @@ public class FuncionarioRepository {
     }
 }
 
-//throws expection - define que o metodo só pode ser executado atráves de um tratamento de exceção, por exempl, utilizando
-//um bloco try e catch. Esta clausila (throws Exception) define que o método "lança exceção", ou seja, pode dar erro.
